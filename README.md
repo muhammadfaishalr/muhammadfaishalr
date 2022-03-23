@@ -6,9 +6,9 @@ Pengalaman dalam Studi Independen Batch 1 di [Dicoding](https://www.dicoding.com
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-faishal-rafi-303aa0228/)ku ya.
 
 <p align="left">
-<a href="https://github.com/abdullahJufri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahJufri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahJufri&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/muhammadfaishalr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadfaishalr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadfaishalr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
